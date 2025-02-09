@@ -1,5 +1,5 @@
 {
-  "api_phim":"https://ophim1.com/",
-  "api_image":"https://img.ophim.live/uploads/movies/",
-  "api_search":"https://ophim.cc/"
+  "api_phim":"https://phimapi.com/",
+  "api_image":"https://phimimg.com/",
+  "api_search":"https://phimapi.com/"
 }
