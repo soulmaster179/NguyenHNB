@@ -2,5 +2,6 @@
   "api_phim":"https://phimapi.com/",
   "api_image":"https://phimimg.com/",
   "api_search":"https://phimapi.com/",
-  "api_tv":"https://raw.githubusercontent.com/soulmaster179/NguyenHNB/refs/heads/main/TV-OPhim.txt"
+  "api_tv":"https://raw.githubusercontent.com/soulmaster179/NguyenHNB/refs/heads/main/TV-OPhim.txt",
+  "ifophim":false
 }
