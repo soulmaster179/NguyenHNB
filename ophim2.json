@@ -1,6 +1,6 @@
 {
   "api_phim":"https://ophim1.com/",
-  "api_image":"https://img.ophim.live/",
+  "api_image":"https://img.ophim.live/uploads/movies/",
   "api_search":"https://ophim1.com/",
   "api_tv":"https://raw.githubusercontent.com/soulmaster179/NguyenHNB/refs/heads/main/TV-OPhim.txt"
 }
